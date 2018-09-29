@@ -16,12 +16,12 @@ docs-en:
   - title:      Start
     children:
       - title:  Quick Start
-        url:    /docs/en/quick-start
+        url:    
       - title:  Structure
-        url:    /docs/en/structure
+        url:    
   - title:      Customization
     children:
       - title:  Configuration
-        url:    /docs/en/configuration
+        url:   
       - title:  Navigation
-        url:    /docs/en/navigation
+        url:   
