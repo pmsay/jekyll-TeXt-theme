@@ -13,12 +13,10 @@ header:
     url:        /about.html
 
 doctest1:
-  -titles: 一级目录
+  -title: 一级目录
   children:
-    -titles: 1.1 test
-    -titles: 1.2 test
-  -titles: 二级目录
-  children:
-    -titles: 2.1 test
-    -titles: 2.2 test
-
+    -title: 1.1 test
+    -title: 1.2 test
+  -title: 二级目录
+  children: 2.1 test
+    -title: 2.2 test
