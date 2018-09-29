@@ -12,12 +12,12 @@ header:
       zh-Hant:  關於
     url:        /about.html
 
-docs-en:
-  - title:      Start
+docs-zh:
+  - title: 测试1
     children:
-      - title:  Quick Start
+      - title:  测试1.1
         url:    
-      - title:  Structure
+      - title:  测试2.1
         url:    
   - title:      Customization
     children:
