@@ -11,3 +11,14 @@ header:
       zh-Hans:  关于
       zh-Hant:  關於
     url:        /about.html
+
+doctest1:
+  -titles: 一级目录
+  children:
+    -titles: 1.1 test
+    -titles: 1.2 test
+  -titles: 二级目录
+  children:
+    -titles: 2.1 test
+    -titles: 2.2 test
+
